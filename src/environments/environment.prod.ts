@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: '/api',
-  hubUrl: '/hubs/notifications'
+  apiUrl: 'https://laundrymgmt-api-hmesarcqhtchg8gg.centralindia-01.azurewebsites.net/api',
+  hubUrl: 'https://laundrymgmt-api-hmesarcqhtchg8gg.centralindia-01.azurewebsites.net/hubs/notifications'
 };
