@@ -108,7 +108,6 @@ import { VisitorVisitDetailDialogComponent } from './visitor-visit-detail-dialog
             </table>
           }
         }
-      }
     </div>
   `,
   styles: [`
