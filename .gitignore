@@ -4,3 +4,10 @@ dist/
 out-tsc/
 npm-debug.log*
 .env
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/SocietyManagement.Web.slnx/FileContentIndex/82f2d0f3-c1e1-4f06-97a0-ec16af4abee2.vsidx
+.vs/SocietyManagement.Web.slnx/v18/.wsuo
+.vs/SocietyManagement.Web.slnx/v18/DocumentLayout.json
+.vs/SocietyManagement.Web.slnx/v18/TestStore/0/000.testlog
+.vs/SocietyManagement.Web.slnx/v18/TestStore/0/testlog.manifest
